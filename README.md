@@ -21,13 +21,6 @@
 <h3 align="center">A Passionate Full-Stack Web Application Developer and AI/ML Enthusiast</h3>
 <h3 align="left">Languages and Tools:</h3>
 
-<style>
-  .round-badge {
-    border-radius: 20px;
-    overflow: hidden;
-  }
-</style>
-
 <div align="left">
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" class="round-badge">
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
 </div>
