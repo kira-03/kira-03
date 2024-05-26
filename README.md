@@ -25,7 +25,6 @@
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
 </div>
 
-<span style="display:inline-block; padding: 0.5em; background-color: #000000; color: #ffffff; border-radius: 0.5em;">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode" style="vertical-align: middle; margin-right: 0.5em;">
-    LeetCode
+<span style="display:inline-block; padding: 0.5em; background-color: #000000; color: #ffffff; border-radius: 0.2em;">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode" style="vertical-align: middle; margin-right: 0.5em;"
 </span>
