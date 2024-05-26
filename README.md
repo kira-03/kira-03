@@ -19,4 +19,8 @@
 
 <h1 align="center">I'm Guruprasath M</h1>
 <h3 align="center">A Passionate Full-Stack Web Application Developer and AI/ML Enthusiast</h3>
+<h3 align="left">Languages and Tools:</h3>
 
+<div align="left">
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+</div>
