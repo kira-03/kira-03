@@ -1,6 +1,11 @@
 <div id="header" align="center">
   <img src="https://media.tenor.com/cX92mi1p-NYAAAAM/coding-anime.gif" width="300"/>
-  <br>
+</div>
+<div align="center">
+  <h1>
+    hey there!
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
   <a href="mailto:guruprasathmaheswaran.07@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
@@ -11,12 +16,9 @@
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
 </div>
+  
 
 
-<div align="center">
-  <h1>
-    hey there!
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
-</div>
+
+
 
