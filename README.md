@@ -26,5 +26,6 @@
 </div>
 
 <span style="display:inline-block; padding: 0.5rem; background-color: #000000; color: #ffffff; border-radius: 0.2rem;">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode" style="vertical-align: middle; margin-right: 0.5rem;"
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode" style="vertical-align: middle; margin-right: 0.5rem;">
 </span>
+
