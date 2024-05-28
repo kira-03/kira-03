@@ -20,7 +20,7 @@
 
 <h3 align="center">A Passionate Full-Stack Web Application Developer and AI/ML Enthusiast</h3>
 <hr>
-<h3 align="center">Languages and Framework</h3>
+<h3 align="center"><strong>Languages and Framework</strong></h3>
 
 
 
