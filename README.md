@@ -20,7 +20,7 @@
 
 
 <h3 align="center">A Passionate Full-Stack Web Application Developer and AI/ML Enthusiast</h3>
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center"> Tech Stack</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
