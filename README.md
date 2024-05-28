@@ -25,6 +25,7 @@
     <img src="https://skillicons.dev/icons?i=c,python,java,html,css,javascript,bootstrap,react,tailwind,vscode,github,figma,git" />
     <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,mysql,mongodb" /><br>
 </div>
+<h2 align="center">Tools</h2>
 
 <br/>
 <hr/>
