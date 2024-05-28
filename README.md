@@ -17,11 +17,8 @@
   <hr>
 </div>
 
-
-
-
-
 <h3 align="center">A Passionate Full-Stack Web Application Developer and AI/ML Enthusiast</h3>
+<hr>
 <h2 align="center"> Tech Stack</h2>
 <br/>
 <div align="center">
