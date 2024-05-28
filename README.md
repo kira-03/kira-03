@@ -21,14 +21,12 @@
 <h3 align="center">A Passionate Full-Stack Web Application Developer and AI & ML Enthusiast!</h3>
 <hr>
 <h3 align="center"><strong>Languages and Frameworks</strong></h3>
-
-
-
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=c,python,java,haskell,scala,go,html,css,javascript,bootstrap,react,tailwind,nodejs,express,nextjs,mysql,mongodb,sklearn,pytorch,&perline=8" />
 </div>
 <h3 align="center"><strong style="font-size: 24px;">Tools</strong></h3>
+<br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=autocad,bash,codepen,vscode,eclipse,git,github,postman,azure,ubuntu,notion,tensorflow,anaconda,unity,blender,latex,ps,stackoverflow,visualstudio&perline=8" />
 </div>
