@@ -3,7 +3,7 @@
 </div>
 <div align="center">
   <h1>
-    Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/><br>I'm Guruprasath M
+    Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/><br>I'm Guruprasath Maheswaran
   </h1>
   <a href="mailto:guruprasathmaheswaran.07@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
