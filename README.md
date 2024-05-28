@@ -27,16 +27,7 @@
 </div>
 <h3 align="center"><strong style="font-size: 24px;">Tools</strong></h3>
 <br/>
-<h2> My Contributions 
-  <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <path d="M2 12C2 6 6 2 12 2C18 2 22 6 22 12" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M6 21C7.07957 19.3773 9.42202 17.9775 11.4215 17.1557C11.913 17.0207 12.4281 17.0207 12.9196 17.1557C14.919 17.9775 17.2614 19.3773 18.341 21" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M6.75211 12.9255C6.30341 13.9617 6.01741 15.0931 6.01741 16.25C6.01741 17.4069 6.30341 18.5383 6.75211 19.5745" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M17.25 12.9255C17.6987 13.9617 17.9847 15.0931 17.9847 16.25C17.9847 17.4069 17.6987 18.5383 17.25 19.5745" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M10.0005 9L11.2505 11.75L9.00049 12.75L10.0005 9Z" fill="black"/>
-    <path d="M14 9L12.75 11.75L15 12.75L14 9Z" fill="black"/>
-  </svg>
-</h2>
+
 
 
 
