@@ -7,7 +7,7 @@
   </h1>
   <a href="mailto:guruprasathmaheswaran.07@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
+  </a><br>
   <a href="https://www.linkedin.com/in/guruprasath-maheswaran-702634305/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
