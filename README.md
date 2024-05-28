@@ -44,7 +44,7 @@
 <hr/>
 
 <div align="center">
-<h2> My Contributions <img src="https://media.tenor.com/gwNQfpidymUAAAAi/fm4-radiofm4.gif" width="50px"/></h2>
+<h2> My Contributions <img src="https://media.tenor.com/gwNQfpidymUAAAAi/fm4-radiofm4.gif" width="40px"/></h2>
 
 
   </svg>
