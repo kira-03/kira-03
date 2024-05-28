@@ -5,6 +5,7 @@
   <h1 align="center">
     Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/><br>I'm Guruprasath M
 </h1>
+  <hr>
 <div align="center">
   <a href="mailto:guruprasathmaheswaran.07@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
