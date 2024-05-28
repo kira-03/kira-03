@@ -28,7 +28,7 @@
 <h2 align="center">Tools</h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=vscode,git,github,postman" />
-    <img src="https://skillicons.dev/icons?i=jira" /><br>
+    <img src="https://skillicons.dev/icons?i=jira,tensorflow" /><br>
 </div>
 
 
