@@ -20,7 +20,7 @@
 
 <h3 align="center">A Passionate Full-Stack Web Application Developer and AI & ML Enthusiast!</h3>
 <hr>
-<h3 align="center"><strong>Languages and Framework</strong></h3>
+<h3 align="center"><strong>Languages and Frameworks</strong></h3>
 
 
 
@@ -38,7 +38,7 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2> My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
