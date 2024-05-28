@@ -32,7 +32,7 @@
 <h3 align="center"><strong>Tools</strong></h3>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=autocad,bash,codepen,vscode,git,github,postman,azure,ubuntu" />
-    <img src="https://skillicons.dev/icons?i=notion,tensorflow,anaconda,unity,blender,jupyter,latex,ps,stackoverflow,visualstudio" /><br>
+    <img src="https://skillicons.dev/icons?i=notion,tensorflow,anaconda,unity,blender,latex,ps,stackoverflow,visualstudio" /><br>
 </div>
 
 
