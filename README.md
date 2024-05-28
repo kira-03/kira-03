@@ -20,7 +20,7 @@
 
 <h3 align="center">A Passionate Full-Stack Web Application Developer and AI & ML Enthusiast!</h3>
 <hr>
-<h3 align="center"><strong>Languages and Frameworks</strong></h3>
+<h3 align="center"><strong>Languages & Frameworks</strong></h3>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=c,python,java,haskell,scala,go,html,css,javascript,bootstrap,react,tailwind,nodejs,express,nextjs,mysql,mongodb,sklearn,pytorch,&perline=8" />
