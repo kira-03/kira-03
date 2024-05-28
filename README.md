@@ -57,4 +57,5 @@
 
 ### GitHub Activity Graph
 
-![Your GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kira-03&theme=react-dark)
+![Your GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kira-03&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true)
+
