@@ -2,10 +2,10 @@
   <img src="https://media.tenor.com/cX92mi1p-NYAAAAM/coding-anime.gif" width="300"/>
 </div>
 <div align="center">
-  <h1 style="display: inline;">
-    Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <h1 align="center">
+    Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Guruprasath M
 </h1>
-<h1 align="center">I'm Guruprasath M</h1>
+
 
 
   <a href="mailto:guruprasathmaheswaran.07@gmail.com">
