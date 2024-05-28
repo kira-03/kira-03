@@ -26,7 +26,7 @@
 
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,python,java,haskell,scala,html,css,javascript,bootstrap,react,tailwind,nodejs,express,nextjs,mysql,mongodb&perline=7" />
+    <img src="https://skillicons.dev/icons?i=c,python,java,haskell,scala,html,css,javascript,bootstrap,react,tailwind,nodejs,express,nextjs,mysql,mongodb&perline=8" />
 </div>
 <h3 align="center"><strong>Tools</strong></h3>
 <div align="center">
