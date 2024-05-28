@@ -44,9 +44,8 @@
 <hr/>
 
 <div align="center">
-<h2> My Contributions 
-  <img src="https://img.icons8.com/color/48/000000/snake--v1.png"/>
-</h2>
+<h2> My Contributions <img src="https://media.tenor.com/gwNQfpidymUAAAAi/fm4-radiofm4.gif" width="30px"/></h2>
+
 
   </svg>
 </h2>
