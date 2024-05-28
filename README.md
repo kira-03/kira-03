@@ -26,11 +26,11 @@
 
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,python,java,haskell,scala,html,css,javascript,bootstrap,react,tailwind,nodejs,express,nextjs,mysql,mongodb&perline=8" />
+    <img src="https://skillicons.dev/icons?i=c,python,java,haskell,scala,go,html,css,javascript,bootstrap,react,tailwind,nodejs,express,nextjs,mysql,mongodb,sklearn,pytorch,&perline=8" />
 </div>
 <h3 align="center"><strong>Tools</strong></h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=autocad,bash,codepen,vscode,git,github,postman,azure,ubuntu,notion,tensorflow,anaconda,unity,blender,latex,ps,stackoverflow,visualstudio&perline=8" />
+    <img src="https://skillicons.dev/icons?i=autocad,bash,codepen,vscode,eclipse,git,github,postman,azure,ubuntu,notion,tensorflow,anaconda,unity,blender,latex,ps,stackoverflow,visualstudio&perline=8" />
 </div>
 
 
