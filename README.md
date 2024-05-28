@@ -6,6 +6,7 @@
     Hey there!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
+  <h1 align="center">I'm Guruprasath M</h1>
   <a href="mailto:guruprasathmaheswaran.07@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
@@ -17,7 +18,7 @@
   </a>
 </div>
 
-<h1 align="center">I'm Guruprasath M</h1>
+
 <h3 align="center">A Passionate Full-Stack Web Application Developer and AI/ML Enthusiast</h3>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
