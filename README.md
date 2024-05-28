@@ -22,10 +22,15 @@
 <h2 align="center">Languages and Framework</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,python,java,html,css,javascript,bootstrap,react,tailwind,vscode,github,figma,git" />
+    <img src="https://skillicons.dev/icons?i=c,python,java,html,css,javascript,bootstrap,react,tailwind" />
     <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,mysql,mongodb" /><br>
 </div>
 <h2 align="center">Tools</h2>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,postman" />
+    <img src="https://skillicons.dev/icons?i=jira" /><br>
+</div>
+
 
 <br/>
 <hr/>
