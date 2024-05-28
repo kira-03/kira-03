@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.tenor.com/cX92mi1p-NYAAAAM/coding-anime.gif" width="300"/>
 </div>
-<div align="center">
+<div style="text-align: center;">
   <h1>
     Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/><br>I'm Guruprasath M
   </h1>
