@@ -9,10 +9,10 @@
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   <a href="https://www.linkedin.com/in/guruprasath-maheswaran-702634305/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://discord.com/users/guru7186">
-    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+    <img src="https://skillicons.dev/icons?i=discord" />
   </a>
   <hr>
 </div>
