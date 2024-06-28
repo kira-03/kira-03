@@ -28,21 +28,12 @@
 
 <h3 align="center"><strong style="font-size: 24px;">Tools</strong></h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=autocad,codepen,vscode,eclipse,git,github,postman,azure,docker,jenkins,ubuntu,notion,tensorflow,anaconda,unity,blender,latex&perline=8" />
+  <img src="https://skillicons.dev/icons?i=autocad,codepen,vscode,eclipse,git,github,postman,azure,docker,tensorflow,anaconda,unity,blender,notion,latex&perline=8" />
 </div>
 
 <br/>
 <hr/>
 
-<div align="center">
-  <h2>My Contributions <img src="https://media.tenor.com/gwNQfpidymUAAAAi/fm4-radiofm4.gif" width="35px"/></h2>
-  
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kira-03/example-repo/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kira-03/example-repo/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/kira-03/example-repo/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
 
 ### GitHub Stats:
 
