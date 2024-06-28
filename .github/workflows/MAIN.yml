@@ -16,6 +16,11 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
       
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '16'  # Update this to the latest available version
+
       - name: Generate snake files
         uses: Platane/snk@v3
         id: snake-gif
