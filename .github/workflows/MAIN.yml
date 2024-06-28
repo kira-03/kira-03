@@ -19,13 +19,18 @@ on:
 jobs:
   # This workflow contains a single job called "build"
   build:
-    # The type of runner that the job will run on
     runs-on: ubuntu-latest
 
-    # Use a specific Node.js version
-    defaults:
-      run:
-        node: 20
+    # Use Node.js version 20 (Choose one approach)
+    # Option 1: Using environment variable
+    # defaults:
+    #   env:
+    #     NODE_VERSION: 20
+
+    # Option 2: Using strategy (if Platane/snk requires specific version)
+    strategy:
+      matrix:
+        node-version: [20]
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
@@ -42,6 +47,9 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             dist/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
         env:
+          # Option 1: Use the defined environment variable
+          # NODE_VERSION: ${{ env.NODE_VERSION }}
+          # Option 2: No additional env needed for strategy approach
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Show build status
