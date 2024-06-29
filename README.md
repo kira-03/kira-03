@@ -1,6 +1,9 @@
 <div id="header" align="center">
   <img src="https://media.tenor.com/cX92mi1p-NYAAAAM/coding-anime.gif" width="300" />
 </div>
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=kira-03&label=Profile%20Views&color=0&icon=0&pretty=false" />
+</a>
 
 <div align="center">
   <h1>Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/><br>I'm Guruprasath Maheswaran</h1>
