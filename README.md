@@ -27,12 +27,12 @@
 <h3 align="center"><strong>Languages & Frameworks</strong></h3>
 <br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,haskell,html,css,javascript,bootstrap,react,ts,nodejs,express,nextjs,tailwind,mongodb,sklearn,pytorch,&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,haskell,html,css,javascript,bootstrap,react,,nextjs,ts,nodejs,express,tailwind,mongodb,sklearn,pytorch,&perline=8" />
 </div>
 
 <h3 align="center"><strong style="font-size: 24px;">Tools</strong></h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=autocad,codepen,vscode,eclipse,git,github,postman,azure,docker,tensorflow,anaconda,unity,blender,notion,latex&perline=8" />
+  <img src="https://skillicons.dev/icons?i=autocad,codepen,vscode,git,github,postman,azure,docker,tensorflow,anaconda,unity,blender,notion,latex&perline=8" />
 </div>
 
 <br/>
