@@ -38,9 +38,9 @@
 <br/>
 <hr/>
 
-
+<!--
 ### GitHub Stats:
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kira-03&show_icons=true&theme=react)
 
-![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kira-03&layout=compact&theme=react)
+![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kira-03&layout=compact&theme=react) -->
