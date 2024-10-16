@@ -27,7 +27,7 @@
 <h3 align="center"><strong>Languages & Frameworks</strong></h3>
 <br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,javascript,bootstrap,react,nextjs,vercel,ts,nodejs,express,tailwind,mongodb,sklearn&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,javascript,bootstrap,react,nextjs,vercel,ts,nodejs,express,tailwind,mongodb,sklearn,fastapi&perline=8" />
 </div>
 
 <h3 align="center"><strong style="font-size: 24px;">Tools</strong></h3>
