@@ -32,7 +32,7 @@
 
 <h3 align="center"><strong style="font-size: 24px;">Tools</strong></h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=autocad,codepen,vscode,git,github,gitlab,postman,azure,docker,kubernetes,tensorflow,anaconda,unity,blender,notion,latex,appwrite,&perline=8" />
+  <img src="https://skillicons.dev/icons?i=autocad,codepen,vscode,git,github,gitlab,postman,azure,docker,kubernetes,tensorflow,anaconda,vercel,latex,appwrite,&perline=8" />
 </div>
 
 <br/>
