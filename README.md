@@ -27,12 +27,16 @@
   <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
   
   <h2 align="left">💫 About Me</h2>
-  <ul align="left" style="list-style: none;">
-    <li>🔭 Working on: AI-powered web applications</li>
-    <li>🌱 Learning: Advanced ML & Cloud Architecture</li>
-    <li>💬 Ask me about: Full Stack Development, AI & ML</li>
-    <li>⚡ Fun fact: Code is poetry in motion!</li>
-  </ul>
+  
+  ```python
+  class AboutMe:
+      def __init__(self):
+          self.name = "Guruprasath Maheswaran"
+          self.working_on = "AI-powered web apps"
+          self.learning = ["Advanced ML", "Cloud Architecture"]
+          self.interests = ["Full Stack Dev", "AI & ML"]
+          self.fun_fact = "Code is poetry in motion!"
+  ```
 </div>
 
 <br/>
