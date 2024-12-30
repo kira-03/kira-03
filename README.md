@@ -4,10 +4,9 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&repeat=true&width=900&height=100&lines=Hi+there!+I'm+Guruprasath+Maheswaran+%F0%9F%91%8B;Full-Stack+Developer+%7C+Explorer+%F0%9F%9A%80;Building+Scalable+Applications+%F0%9F%92%AA;Turning+Ideas+into+Reality+%E2%9C%A8;Always+Learning+and+Growing+%F0%9F%93%96" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&repeat=true&width=900&height=100&lines=Hi+there!+I'm+Guruprasath+Maheswaran+%F0%9F%91%8B;Full-Stack+Developer+%7C+Explorer+%F0%9F%9A%80;Crafting+Scalable+Apps+and+Optimized+Solutions+%F0%9F%92%AA;Interested+in+DSA+and+Problem-Solving+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Always+Learning%2C+Growing%2C+and+Innovating+%F0%9F%93%96" alt="Typing SVG"/>
   </a>
 </div>
-
 
 
 </div>
@@ -29,22 +28,25 @@
   
   <img src="https://github-stats-alpha.vercel.app/api?username=kira-03&cc=000&tc=fff&ic=fff&bc=0000" alt="GitHub Stats" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kira-03&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</div>
-
 <div align="center">
   <h2>🛠️ Skills & Technologies</h2>
-  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,javascript,bootstrap,react,nextjs,vercel,ts,nodejs,express,tailwind,mongodb,sklearn,fastapi&perline=8" />
-  <img src="https://skillicons.dev/icons?i=autocad,codepen,vscode,git,github,gitlab,postman,azure,docker,kubernetes,tensorflow,anaconda,latex,appwrite&perline=8" />
+
+  <h3>Languages</h3>
+  <img src="https://skillicons.dev/icons?i=python,cpp,javascript,html,css,ts" />
+
+  <h3>Frameworks & Libraries</h3>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,express,bootstrap,tailwind,fastapi,sklearn,tensorflow" />
+
+  <h3>Tools</h3>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,codepen,vscode,postman,azure,docker,kubernetes,anaconda,latex,appwrite" />
 </div>
 
 <div align="center">
   <h2>📈 Contribution Graph</h2>
   <a href="https://github.com/kira-03/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=kira-03&theme=tokyo-night&hide_border=true&radius=12&point=36BCF7&line=FF5733&title_color=36BCF7&color=F7DC6F&bg_color=0d1117&area=true&area_color=900C3F" width="100%" alt="Contribution Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=kira-03&theme=tokyo-night&hide_border=true&radius=8&point=ff0000&line=ff0000&title_color=ffffff&color=ffffff&bg_color=0d1117&area=true&area_color=ff0000" width="100%" alt="Contribution Graph" />
   </a>
 </div>
-
 
 <div align="center">
   <h2>🏆 GitHub Trophies</h2>
@@ -54,5 +56,6 @@
 <img src="https://raw.githubusercontent.com/kira-03/kira-03/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=76D7F2&height=100&section=footer&animation=twinkling" />
 </div>
+
