@@ -4,8 +4,10 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=800&color=6CC644&background=000000&center=true&vCenter=true&repeat=true&width=900&height=100&lines=Hi+there!+I'm+Guruprasath+Maheswaran+%F0%9F%91%8B;Full-Stack+Developer+%7C+Explorer+%F0%9F%9A%80;Building+Scalable+Applications+%F0%9F%92%AA;Turning+Ideas+into+Reality+%E2%9C%A8;Always+Learning+and+Growing+%F0%9F%93%96" alt="Typing SVG"/>
-</a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=800&color=FF0000&center=true&vCenter=true&repeat=true&width=900&height=100&lines=Hi+there!+I'm+Guruprasath+Maheswaran+%F0%9F%91%8B;Full-Stack+Developer+%7C+Explorer+%F0%9F%9A%80;Building+Scalable+Applications+%F0%9F%92%AA;Turning+Ideas+into+Reality+%E2%9C%A8;Always+Learning+and+Growing+%F0%9F%93%96" alt="Typing SVG"/>
+  </a>
+</div>
+
 
 </div>
 
