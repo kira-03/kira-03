@@ -19,8 +19,6 @@
 <div align="center">
   <h2>📊 GitHub Stats</h2>
   
-  <!-- Added more detailed GitHub streak stats with custom styling -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kira-03&theme=tokyonight&hide_border=true&ring=ff0000&fire=ff0000&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&stroke=ff0000" alt="GitHub Streak" />
   
   <br/>
   
