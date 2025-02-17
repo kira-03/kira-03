@@ -7,14 +7,22 @@
   </a>
 </div>
 
-<div align="center">
-  <a href="mailto:guruprasathmaheswaran.07@gmail.com" target="_blank" style="margin-right: 40px;">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=light" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/guruprasath-maheswaran-702634305/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=light" alt="LinkedIn" />
-  </a>
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <a href="mailto:guruprasathmaheswaran.07@gmail.com" target="_blank">
+        <img src="https://skillicons.dev/icons?i=gmail&theme=light" alt="Gmail" />
+      </a>
+    </td>
+    <td width="50"></td> <!-- Adjust width for more space -->
+    <td>
+      <a href="https://www.linkedin.com/in/guruprasath-maheswaran-702634305/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=linkedin&theme=light" alt="LinkedIn" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 
 
