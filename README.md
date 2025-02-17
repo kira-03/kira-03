@@ -42,9 +42,11 @@
   
 <div align="center">
   
+<div align="center">
+  
 # 🛠️ Skills & Technologies
 
-## 📜 Languages & Technologies
+### 📜 Languages & Technologies
 <table>
   <tr>
     <td align="center" width="96">
@@ -71,7 +73,7 @@
   </tr>
 </table>
 
-## 🖥️ Frontend & Backend Development
+### 🖥️ Frontend & Backend Development
 <table>
   <tr>
     <td align="center" width="96">
@@ -95,7 +97,7 @@
   </tr>
 </table>
 
-## 🧠 ML, DevOps & Cloud
+### 🧠 ML, DevOps & Cloud
 <table>
   <tr>
     <td align="center" width="96">
@@ -122,7 +124,7 @@
   </tr>
 </table>
 
-## 🛠️ Tools & Others
+### 🛠️ Tools & Others
 <table>
   <tr>
     <td align="center" width="96">
@@ -148,6 +150,8 @@
     </td>
   </tr>
 </table>
+
+</div>
 
 </div>
 
