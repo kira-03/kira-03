@@ -38,20 +38,29 @@
 
 <div align="center">
   <h2>🛠️ Skills & Technologies</h2>
-  <h3>Languages</h3>
-  <img src="https://skillicons.dev/icons?i=python,cpp,javascript,html,css,ts" />
-  <h3>Frameworks & Libraries</h3>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,express,bootstrap,tailwind,fastapi,sklearn,tensorflow" />
-  <h3>Tools</h3>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,codepen,vscode,postman,azure,docker,kubernetes,anaconda,latex,appwrite" />
+
+  <h3>📜 Languages</h3>
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,ts" alt="Languages" />
+
+  <h3>🖥️ Frontend Development</h3>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" alt="Frontend Technologies" />
+
+  <h3>⚙️ Backend Development</h3>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" alt="Backend Technologies" />
+
+  <h3>🧠 Machine Learning & Computer Vision</h3>
+  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,opencv" alt="ML & AI Technologies" />
+
+  <h3>🚀 DevOps Development & Cloud</h3>
+  <img src="https://skillicons.dev/icons?i=azure,docker,kubernetes" alt="DevOps & Cloud" />
+
+  <h3>🛠️ Development Tools</h3>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Development Tools" />
+
+  <h3>🔧 Other Technologies</h3>
+  <img src="https://skillicons.dev/icons?i=anaconda,latex,appwrite" alt="Other Tools" />
 </div>
 
-<div align="center">
-  <h2>📈 Contribution Graph</h2>
-  <a href="https://github.com/kira-03/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=kira-03&theme=tokyo-night&hide_border=true&radius=8&point=ff0000&line=ff0000&title_color=ffffff&color=ffffff&bg_color=0d1117&area=true&area_color=ff0000" width="100%" alt="Contribution Graph" />
-  </a>
-</div>
 
 <div align="center">
   <h2>🏆 GitHub Trophies</h2>
