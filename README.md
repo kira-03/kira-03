@@ -94,7 +94,7 @@
   </tr>
 </table>
 
-### 🧠 ML, DevOps & Cloud Technologies
+### 🤖 ML, DevOps & Cloud Technologies
 <table>
   <tr>
     <td align="center" width="96">
