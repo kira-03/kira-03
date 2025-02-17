@@ -46,7 +46,7 @@
   
 # 🛠️ Skills & Technologies
 
-### 📜 Languages & Technologies
+### 📜 Programming & Markup Languages
 <table>
   <tr>
     <td align="center" width="96">
@@ -73,7 +73,7 @@
   </tr>
 </table>
 
-### 🖥️ Frontend & Backend Development
+### 🖥️ Web Development Technologies
 <table>
   <tr>
     <td align="center" width="96">
@@ -97,7 +97,7 @@
   </tr>
 </table>
 
-### 🧠 ML, DevOps & Cloud
+### 🧠 ML, DevOps & Cloud Technologies
 <table>
   <tr>
     <td align="center" width="96">
@@ -124,7 +124,7 @@
   </tr>
 </table>
 
-### 🛠️ Tools & Others
+### 🛠️ Tools & Utilities
 <table>
   <tr>
     <td align="center" width="96">
