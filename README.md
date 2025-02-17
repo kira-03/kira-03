@@ -8,12 +8,9 @@
 </div>
 
 <div align="center">
-  <h2>📧 Contact</h2>
-  <h3>Gmail</h3>
   <a href="mailto:guruprasathmaheswaran.07@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail&theme=light" alt="Gmail" />
   </a>
-  <h3>LinkedIn</h3>
   <a href="https://www.linkedin.com/in/guruprasath-maheswaran-702634305/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=light" alt="LinkedIn" />
   </a>
