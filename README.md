@@ -17,7 +17,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.guruprasath.tech/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=htmx&theme=dark" alt="Portfolio" />
+    <img src="https://skillicons.dev/icons?i=htmx&theme=light" alt="Portfolio" />
   </a>
 </div>
 
