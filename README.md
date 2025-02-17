@@ -38,6 +38,8 @@
 
 <div align="center">
   
+<div align="center">
+  
 # 🛠️ Skills & Technologies
 
 ## 📜 Languages & Technologies
@@ -46,31 +48,24 @@
   <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-      <br>Python
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-      <br>Java
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" />
-      <br>JavaScript
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" />
-      <br>TypeScript
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-      <br>HTML
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
-      <br>CSS
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-      <br>MySQL
     </td>
   </tr>
 </table>
@@ -81,27 +76,21 @@
   <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-      <br>React
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
-      <br>Next.js
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-      <br>Tailwind
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-      <br>Node.js
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
-      <br>Express
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
-      <br>FastAPI
     </td>
   </tr>
 </table>
@@ -112,31 +101,24 @@
   <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
-      <br>TensorFlow
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="scikit-learn" />
-      <br>scikit-learn
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="OpenCV" />
-      <br>OpenCV
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="Azure" />
-      <br>Azure
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="GCP" />
-      <br>GCP
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-      <br>Docker
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" />
-      <br>Kubernetes
     </td>
   </tr>
 </table>
@@ -147,37 +129,29 @@
   <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-      <br>GitHub
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions" />
-      <br>GH Actions
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-      <br>VS Code
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-      <br>Postman
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=obsidian" width="48" height="48" alt="Obsidian" />
-      <br>Obsidian
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=latex" width="48" height="48" alt="LaTeX" />
-      <br>LaTeX
     </td>
   </tr>
 </table>
 
 </div>
-
 
 <div align="center">
   <h2>🏆 GitHub Trophies</h2>
