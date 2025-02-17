@@ -15,7 +15,12 @@
   <a href="https://www.linkedin.com/in/guruprasath-maheswaran-702634305/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=light" alt="LinkedIn" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.guruprasath.tech/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=globe&theme=light" alt="Portfolio" />
+  </a>
 </div>
+
 
 
 
