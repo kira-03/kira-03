@@ -41,31 +41,33 @@
   
 <div align="center">
   
+<div align="center">
+  
 # 🚀 Skills & Technologies
 
 ### 📜 Programming & Markup Languages
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" title="Python" />
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" title="Java" />
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" />
+      <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" title="JavaScript" />
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" />
+      <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" title="TypeScript" />
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" title="HTML" />
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" title="CSS" />
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" title="MySQL" />
     </td>
   </tr>
 </table>
@@ -74,22 +76,22 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" title="React" />
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" title="Next.js" />
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" title="Tailwind CSS" />
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" title="Node.js" />
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
+      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" title="Express.js" />
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
+      <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" title="FastAPI" />
     </td>
   </tr>
 </table>
@@ -98,25 +100,25 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" title="TensorFlow" />
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="scikit-learn" />
+      <img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="scikit-learn" title="scikit-learn" />
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="OpenCV" />
+      <img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="OpenCV" title="OpenCV" />
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="Azure" />
+      <img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="Azure" title="Microsoft Azure" />
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="GCP" />
+      <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="GCP" title="Google Cloud Platform" />
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" title="Docker" />
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" />
+      <img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" title="Kubernetes" />
     </td>
   </tr>
 </table>
@@ -125,30 +127,28 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" title="Git" />
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" title="GitHub" />
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions" />
+      <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions" title="GitHub Actions" />
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" title="Visual Studio Code" />
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" title="Postman" />
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=obsidian" width="48" height="48" alt="Obsidian" />
+      <img src="https://skillicons.dev/icons?i=obsidian" width="48" height="48" alt="Obsidian" title="Obsidian" />
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=latex" width="48" height="48" alt="LaTeX" />
+      <img src="https://skillicons.dev/icons?i=latex" width="48" height="48" alt="LaTeX" title="LaTeX" />
     </td>
   </tr>
 </table>
-
-</div>
 
 </div>
 
