@@ -23,9 +23,6 @@
 
 
 
-
-
-
 <div align="center">
   <h2>📊 GitHub Stats</h2>
   
@@ -44,7 +41,7 @@
   
 <div align="center">
   
-# 🛠️ Skills & Technologies
+# 🚀 Skills & Technologies
 
 ### 📜 Programming & Markup Languages
 <table>
@@ -124,7 +121,7 @@
   </tr>
 </table>
 
-### 🛠️ Tools & Utilities
+### ⚙️ Tools & Utilities
 <table>
   <tr>
     <td align="center" width="96">
