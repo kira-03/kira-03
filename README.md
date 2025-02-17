@@ -9,7 +9,7 @@
 
 <div align="center">
   <a href="mailto:guruprasathmaheswaran.07@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=red" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=red" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/guruprasath-maheswaran-702634305/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=blue" alt="LinkedIn" />
