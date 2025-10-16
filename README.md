@@ -42,25 +42,25 @@
 ### 📜 Programming & Markup Languages
 <table style="border-collapse: separate; border-spacing: 0 8px; width: 100%; max-width: 800px; margin: 0 auto;">
   <tr>
-    <td align="center" width="96" style="padding: 8px; background: #f0f8ff; border: 1px solid #e0e6ed; border-radius: 8px; transition: background-color 0.2s ease;">
+    <td align="center" width="96" style="padding: 8px; background: #f0f8ff; border: 1px solid #e0e6ed; border-radius: 8px;">
       <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" title="Python" />
     </td>
-    <td align="center" width="96" style="padding: 8px; background: #f9f9f9; border: 1px solid #e0e6ed; border-radius: 8px; transition: background-color 0.2s ease;">
+    <td align="center" width="96" style="padding: 8px; background: #f9f9f9; border: 1px solid #e0e6ed; border-radius: 8px;">
       <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" title="Java" />
     </td>
-    <td align="center" width="96" style="padding: 8px; background: #f0f8ff; border: 1px solid #e0e6ed; border-radius: 8px; transition: background-color 0.2s ease;">
+    <td align="center" width="96" style="padding: 8px; background: #f0f8ff; border: 1px solid #e0e6ed; border-radius: 8px;">
       <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" title="JavaScript" />
     </td>
-    <td align="center" width="96" style="padding: 8px; background: #f9f9f9; border: 1px solid #e0e6ed; border-radius: 8px; transition: background-color 0.2s ease;">
+    <td align="center" width="96" style="padding: 8px; background: #f9f9f9; border: 1px solid #e0e6ed; border-radius: 8px;">
       <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" title="TypeScript" />
     </td>
-    <td align="center" width="96" style="padding: 8px; background: #f0f8ff; border: 1px solid #e0e6ed; border-radius: 8px; transition: background-color 0.2s ease;">
+    <td align="center" width="96" style="padding: 8px; background: #f0f8ff; border: 1px solid #e0e6ed; border-radius: 8px;">
       <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" title="HTML" />
     </td>
-    <td align="center" width="96" style="padding: 8px; background: #f9f9f9; border: 1px solid #e0e6ed; border-radius: 8px; transition: background-color 0.2s ease;">
+    <td align="center" width="96" style="padding: 8px; background: #f9f9f9; border: 1px solid #e0e6ed; border-radius: 8px;">
       <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" title="CSS" />
     </td>
-    <td align="center" width="96" style="padding: 8px; background: #f0f8ff; border: 1px solid #e0e6ed; border-radius: 8px; transition: background-color 0.2s ease;">
+    <td align="center" width="96" style="padding: 8px; background: #f0f8ff; border: 1px solid #e0e6ed; border-radius: 8px;">
       <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" title="MySQL" />
     </td>
   </tr>
@@ -69,25 +69,25 @@
 ### 🖥️ Web Development Technologies
 <table style="border-collapse: separate; border-spacing: 0 8px; width: 100%; max-width: 800px; margin: 0 auto;">
   <tr>
-    <td align="center" width="96" style="padding: 8px; background: #f9f9f9; border: 1px solid #e0e6ed; border-radius: 8px; transition: background-color 0.2s ease;">
+    <td align="center" width="96" style="padding: 8px; background: #f9f9f9; border: 1px solid #e0e6ed; border-radius: 8px;">
       <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" title="React" />
     </td>
-    <td align="center" width="96" style="padding: 8px; background: #f0f8ff; border: 1px solid #e0e6ed; border-radius: 8px; transition: background-color 0.2s ease;">
+    <td align="center" width="96" style="padding: 8px; background: #f0f8ff; border: 1px solid #e0e6ed; border-radius: 8px;">
       <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" title="Next.js" />
     </td>
-    <td align="center" width="96" style="padding: 8px; background: #f9f9f9; border: 1px solid #e0e6ed; border-radius: 8px; transition: background-color 0.2s ease;">
+    <td align="center" width="96" style="padding: 8px; background: #f9f9f9; border: 1px solid #e0e6ed; border-radius: 8px;">
       <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" title="Tailwind CSS" />
     </td>
-    <td align="center" width="96" style="padding: 8px; background: #f0f8ff; border: 1px solid #e0e6ed; border-radius: 8px; transition: background-color 0.2s ease;">
+    <td align="center" width="96" style="padding: 8px; background: #f0f8ff; border: 1px solid #e0e6ed; border-radius: 8px;">
       <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" title="Node.js" />
     </td>
-    <td align="center" width="96" style="padding: 8px; background: #f9f9f9; border: 1px solid #e0e6ed; border-radius: 8px; transition: background-color 0.2s ease;">
+    <td align="center" width="96" style="padding: 8px; background: #f9f9f9; border: 1px solid #e0e6ed; border-radius: 8px;">
       <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" title="Express.js" />
     </td>
-    <td align="center" width="96" style="padding: 8px; background: #f0f8ff; border: 1px solid #e0e6ed; border-radius: 8px; transition: background-color 0.2s ease;">
+    <td align="center" width="96" style="padding: 8px; background: #f0f8ff; border: 1px solid #e0e6ed; border-radius: 8px;">
       <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" title="FastAPI" />
     </td>
-    <td align="center" width="96" style="padding: 8px; background: #f9f9f9; border: 1px solid #e0e6ed; border-radius: 8px; transition: background-color 0.2s ease;">
+    <td align="center" width="96" style="padding: 8px; background: #f9f9f9; border: 1px solid #e0e6ed; border-radius: 8px;">
       <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt=".NET" title=".NET" />
     </td>
   </tr>
@@ -96,25 +96,25 @@
 ### 🤖 ML, DevOps & Cloud Technologies
 <table style="border-collapse: separate; border-spacing: 0 8px; width: 100%; max-width: 800px; margin: 0 auto;">
   <tr>
-    <td align="center" width="96" style="padding: 8px; background: #f0f8ff; border: 1px solid #e0e6ed; border-radius: 8px; transition: background-color 0.2s ease;">
+    <td align="center" width="96" style="padding: 8px; background: #f0f8ff; border: 1px solid #e0e6ed; border-radius: 8px;">
       <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" title="TensorFlow" />
     </td>
-    <td align="center" width="96" style="padding: 8px; background: #f9f9f9; border: 1px solid #e0e6ed; border-radius: 8px; transition: background-color 0.2s ease;">
+    <td align="center" width="96" style="padding: 8px; background: #f9f9f9; border: 1px solid #e0e6ed; border-radius: 8px;">
       <img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="scikit-learn" title="scikit-learn" />
     </td>
-    <td align="center" width="96" style="padding: 8px; background: #f0f8ff; border: 1px solid #e0e6ed; border-radius: 8px; transition: background-color 0.2s ease;">
+    <td align="center" width="96" style="padding: 8px; background: #f0f8ff; border: 1px solid #e0e6ed; border-radius: 8px;">
       <img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="OpenCV" title="OpenCV" />
     </td>
-    <td align="center" width="96" style="padding: 8px; background: #f9f9f9; border: 1px solid #e0e6ed; border-radius: 8px; transition: background-color 0.2s ease;">
+    <td align="center" width="96" style="padding: 8px; background: #f9f9f9; border: 1px solid #e0e6ed; border-radius: 8px;">
       <img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="Azure" title="Microsoft Azure" />
     </td>
-    <td align="center" width="96" style="padding: 8px; background: #f0f8ff; border: 1px solid #e0e6ed; border-radius: 8px; transition: background-color 0.2s ease;">
+    <td align="center" width="96" style="padding: 8px; background: #f0f8ff; border: 1px solid #e0e6ed; border-radius: 8px;">
       <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="GCP" title="Google Cloud Platform" />
     </td>
-    <td align="center" width="96" style="padding: 8px; background: #f9f9f9; border: 1px solid #e0e6ed; border-radius: 8px; transition: background-color 0.2s ease;">
+    <td align="center" width="96" style="padding: 8px; background: #f9f9f9; border: 1px solid #e0e6ed; border-radius: 8px;">
       <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" title="Docker" />
     </td>
-    <td align="center" width="96" style="padding: 8px; background: #f0f8ff; border: 1px solid #e0e6ed; border-radius: 8px; transition: background-color 0.2s ease;">
+    <td align="center" width="96" style="padding: 8px; background: #f0f8ff; border: 1px solid #e0e6ed; border-radius: 8px;">
       <img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" title="Kubernetes" />
     </td>
   </tr>
@@ -123,35 +123,29 @@
 ### ⚙️ Tools & Utilities
 <table style="border-collapse: separate; border-spacing: 0 8px; width: 100%; max-width: 800px; margin: 0 auto;">
   <tr>
-    <td align="center" width="96" style="padding: 8px; background: #f9f9f9; border: 1px solid #e0e6ed; border-radius: 8px; transition: background-color 0.2s ease;">
+    <td align="center" width="96" style="padding: 8px; background: #f9f9f9; border: 1px solid #e0e6ed; border-radius: 8px;">
       <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" title="Git" />
     </td>
-    <td align="center" width="96" style="padding: 8px; background: #f0f8ff; border: 1px solid #e0e6ed; border-radius: 8px; transition: background-color 0.2s ease;">
+    <td align="center" width="96" style="padding: 8px; background: #f0f8ff; border: 1px solid #e0e6ed; border-radius: 8px;">
       <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" title="GitHub" />
     </td>
-    <td align="center" width="96" style="padding: 8px; background: #f9f9f9; border: 1px solid #e0e6ed; border-radius: 8px; transition: background-color 0.2s ease;">
+    <td align="center" width="96" style="padding: 8px; background: #f9f9f9; border: 1px solid #e0e6ed; border-radius: 8px;">
       <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions" title="GitHub Actions" />
     </td>
-    <td align="center" width="96" style="padding: 8px; background: #f0f8ff; border: 1px solid #e0e6ed; border-radius: 8px; transition: background-color 0.2s ease;">
+    <td align="center" width="96" style="padding: 8px; background: #f0f8ff; border: 1px solid #e0e6ed; border-radius: 8px;">
       <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" title="Visual Studio Code" />
     </td>
-    <td align="center" width="96" style="padding: 8px; background: #f9f9f9; border: 1px solid #e0e6ed; border-radius: 8px; transition: background-color 0.2s ease;">
+    <td align="center" width="96" style="padding: 8px; background: #f9f9f9; border: 1px solid #e0e6ed; border-radius: 8px;">
       <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" title="Postman" />
     </td>
-    <td align="center" width="96" style="padding: 8px; background: #f0f8ff; border: 1px solid #e0e6ed; border-radius: 8px; transition: background-color 0.2s ease;">
+    <td align="center" width="96" style="padding: 8px; background: #f0f8ff; border: 1px solid #e0e6ed; border-radius: 8px;">
       <img src="https://skillicons.dev/icons?i=obsidian" width="48" height="48" alt="Obsidian" title="Obsidian" />
     </td>
-    <td align="center" width="96" style="padding: 8px; background: #f9f9f9; border: 1px solid #e0e6ed; border-radius: 8px; transition: background-color 0.2s ease;">
+    <td align="center" width="96" style="padding: 8px; background: #f9f9f9; border: 1px solid #e0e6ed; border-radius: 8px;">
       <img src="https://skillicons.dev/icons?i=latex" width="48" height="48" alt="LaTeX" title="LaTeX" />
     </td>
   </tr>
 </table>
-
-<style>
-  table td:hover {
-    background-color: #e6f3ff;
-  }
-</style>
 
 </div>
 
