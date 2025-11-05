@@ -74,12 +74,3 @@
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kira-03&style=for-the-badge&color=red" alt="Profile Views" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=76D7F2&height=100&section=footer&animation=twinkling" />
-</div>
