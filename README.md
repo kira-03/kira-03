@@ -30,24 +30,6 @@
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kira-03&bg_color=0d1117&color=36BCF7&line=36BCF7&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Graph" width="95%" />
-</div>
-
----
-
-## 🎖️ Holopin Badges
-
-<div align="center">
-  
-[![An image of @kira03's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kira03)](https://holopin.io/@kira03)
-
-</div>
-
----
-
 ## 🚀 Skills & Technologies
 
 <div align="center">
@@ -68,10 +50,20 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kira-03&theme=discord&no-frame=true&no-bg=false&margin-w=4&column=-1" alt="GitHub Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kira-03&bg_color=0d1117&color=36BCF7&line=36BCF7&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Graph" width="95%" />
+</div>
+
+---
+
+## 🎖️ Holopin Badges
+
+<div align="center">
+  
+[![An image of @kira03's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kira03)](https://holopin.io/@kira03)
+
 </div>
 
 ---
