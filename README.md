@@ -23,13 +23,23 @@
 ---
 
 ## 📊 GitHub Stats
+
 <div align="center">
   <img src="https://github-stats-alpha.vercel.app/api?username=kira-03&cc=000&tc=fff&ic=fff&bc=0000" alt="GitHub Stats" />
 </div>
 
 ---
 
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kira-03&bg_color=0d1117&color=36BCF7&line=36BCF7&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Graph" width="95%" />
+</div>
+
+---
+
 ## 🚀 Skills & Technologies
+
 <div align="center">
 
 ### 📜 Programming & Markup Languages
@@ -49,6 +59,7 @@
 ---
 
 ## 🏆 GitHub Trophies
+
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=kira-03&theme=discord&no-frame=true&no-bg=false&margin-w=4&column=-1" alt="GitHub Trophies" />
 </div>
