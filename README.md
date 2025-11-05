@@ -38,20 +38,12 @@
 
 ---
 
-## 🎖️ Recent Badges & Achievements
+## 🎖️ Recent Badges
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kira-03&theme=github_dark" alt="Profile Summary" width="95%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kira-03&theme=dark&background=0d1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7&sideNums=36BCF7&currStreakNum=ffffff&dates=8b949e&sideLabels=36BCF7" alt="GitHub Streak" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=kira-03&show_icons=true&theme=dark&bg_color=0d1117&title_color=36BCF7&icon_color=36BCF7&text_color=ffffff&border_color=36BCF7&hide_border=false" alt="GitHub Stats" width="49%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kira-03&layout=compact&theme=dark&bg_color=0d1117&title_color=36BCF7&text_color=ffffff&border_color=36BCF7&hide_border=false" alt="Top Languages" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kira-03&theme=github_dark&utcOffset=5.5" alt="Productive Time" width="49%" />
+  <a href="https://holopin.io/@kira03">
+    <img src="https://holopin.me/kira03" alt="Holopin Badge Board" />
+  </a>
 </div>
 
 ---
