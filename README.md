@@ -20,45 +20,44 @@
   </a>
 </div>
 
----
 
-## 📊 GitHub Stats
+
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-stats-alpha.vercel.app/api?username=kira-03&cc=000&tc=fff&ic=fff&bc=0000" alt="GitHub Stats" />
 </div>
 
----
 
-## 🚀 Skills & Technologies
+
+## Skills & Technologies
 
 <div align="center">
 
-### 📜 Programming & Markup Languages
+### Programming & Markup Languages
 <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,html,css,mysql&perline=7" />
 
-### 🖥️ Web Development Technologies
+### Web Development Technologies
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,fastapi,dotnet&perline=7" />
 
-### 🤖 ML, DevOps & Cloud Technologies
+### ML, DevOps & Cloud Technologies
 <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv,azure,gcp,docker,kubernetes&perline=7" />
 
-### ⚙️ Tools & Utilities
+### Tools & Utilities
 <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,postman,obsidian,latex&perline=7" />
 
 </div>
 
----
 
-## 📈 Contribution Graph
+## GitHub Contributions Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kira-03&bg_color=0d1117&color=36BCF7&line=36BCF7&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Graph" width="95%" />
 </div>
 
----
 
-## 🎖️ Holopin Badges
+
+## Recent Badges
 
 <div align="center">
   
@@ -66,11 +65,10 @@
 
 </div>
 
----
+
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/kira-03/kira-03/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
 </div>
 
----
 
