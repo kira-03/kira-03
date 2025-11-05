@@ -41,12 +41,6 @@
 ## 🎖️ Holopin Badges
 
 <div align="center">
-  <a href="https://holopin.io/@kira03">
-    <img src="https://holopin.io/api/user/board?user=kira03" alt="Holopin Badge Board" />
-  </a>
-</div>
-
-<div align="center">
   
 [![An image of @kira03's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kira03)](https://holopin.io/@kira03)
 
