@@ -6,11 +6,6 @@
   <img src="https://media.tenor.com/cX92mi1p-NYAAAAM/coding-anime.gif" width="300" alt="" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?..." alt="" />
-</p>
-
-
 <br/>
 
 <div align="center">
