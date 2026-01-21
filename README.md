@@ -2,11 +2,14 @@
   <img src="https://media.tenor.com/cX92mi1p-NYAAAAM/coding-anime.gif" width="300" />
 </div>
  
-<div align="center">
-  <a href="https://git.io/typing-svg"> 
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&repeat=true&width=900&height=100&lines=Hi+there!+I'm+Guruprasath+Maheswaran+%F0%9F%91%8B;Full-Stack+Developer+%7C+Explorer+%F0%9F%9A%80;Crafting+Scalable+Apps+and+Optimized+Solutions+%F0%9F%92%AA;Interested+in+DSA+and+Problem- Solving+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Always+Learning%2C+Growing%2C+and+Innovating+%F0%9F%93%96" alt="Typing SVG" />
-  </a>
-</div>
+<p align="center">
+  <img src="https://media.tenor.com/cX92mi1p-NYAAAAM/coding-anime.gif" width="300" alt="" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?..." alt="" />
+</p>
+
 
 <br/>
 
