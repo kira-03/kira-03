@@ -10,7 +10,7 @@
     <img src="https://skillicons.dev/icons?i=gmail&theme=light" alt="Gmail" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/guruprasath-maheswaran-702634305/" target="_blank">
+  <a href="https://www.linkedin.com/in/guruprasath-maheswaran-702634305/" target="_blank"> 
     <img src="https://skillicons.dev/icons?i=linkedin&theme=light" alt="LinkedIn" />
   </a>
 </div>
