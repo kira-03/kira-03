@@ -12,7 +12,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/guruprasath-maheswaran-702634305/" target="_blank"> 
     <img src="https://skillicons.dev/icons?i=linkedin&theme=light" alt="LinkedIn" />
-  </a>
+  </a> 
 </div>
 
 
