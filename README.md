@@ -5,7 +5,7 @@
  
 <br/> 
   
-<div align="center">
+<div align="center"> 
   <a href="mailto:guruprasathmaheswaran.07@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail&theme=light" alt="Gmail" />
   </a>
